@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "sequelize": "^6.37.3",
+    "sqlite-sandbox": "file:",
     "sqlite3": "^5.1.7"
   }
 }
